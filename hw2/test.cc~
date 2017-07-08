@@ -1,0 +1,20 @@
+#include <cstdio>
+using namespace std;
+
+/* UserId	ItemId	Result	Unix-timestamp */
+
+int main()
+{
+	printf("lalalala\n");
+	puts("lalala");
+	// FILE *fp = fopen("/tmp2/KDDCUP2012/track1/rec_log_train.txt", "rb");
+	// int buf[4];
+	// while(fread(buf, sizeof(int) * 1, 4, fp)) {
+		// ++tot;
+		// if(buf[2] == 1)
+			// ++acc;
+	// }
+	// fclose(fp);
+	// printf("%d\n%d\n", acc, tot);
+	return 0;
+}
